@@ -16,6 +16,7 @@
   "extensionDependencies": [
     "llvm-vs-code-extensions.vscode-clangd"
   ],
+  "repository": "https://github.com/bahtibyte/vscode-ast-tree",
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
